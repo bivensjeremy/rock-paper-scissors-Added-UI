@@ -1,0 +1,6 @@
+Rock Paper Scissors program for the Odin Project
+
+I spent waaaay too long learning javascript for this project. But it was necessary to have a good grasp on the fundamentals in order to feel confident moving forward. I ended up utilizing links from the Odin Project, Google, Solo Learn, and a book dedicated to JavaScript to piece it all together.  When I finally figured it out, I accidentally deleted all my work. So, this is the recreation of the Rock Paper Scissors Project
+
+UI UPDATE:
+As a part of the DOM Manipulation lesson, I have updated this program. I Added an entire interface. HTML, CSS, JavaScript.. the works. The JavaScript is a HOT MESS of code. I added and reworked code as I went along with no real organization. I plan to clean it up as I become more proficent. A lot of this was trial and error, so I did not worry about organization at this point.  Still having trouble gettign the computer to RANDOMLY make a selection, though... it seems to return the same value over and over. I also wanted to display a large banner that announced the winner but I couldn't figure that one out. Instead the winner is announced using an alert.
